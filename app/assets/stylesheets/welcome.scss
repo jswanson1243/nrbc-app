@@ -1,3 +1,18 @@
 // Place all the styles related to the welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+  .jumbotron {
+    
+    background-image: asset-url('IMG_5921.JPG');
+    background-size: cover;
+    height: 550px;
+  }
+  
+  .jumbotron h1 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: -1px;
+    font-weight: bold;
+    
+  }
